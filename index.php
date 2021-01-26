@@ -55,8 +55,8 @@
                             <span class="icon-bar"></span>
                             </button>
                             <a class="navbar-brand" href="index.html">
-                                <img src="img/logo.png" alt="">
-                                <img src="img/logo-2.png" alt="">
+                                <img src="img/neez-logo.png" alt="">
+                                <img src="img/neez-logo.png" alt="">
                             </a>
                         </div>
                     </div>
